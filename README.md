@@ -1,2 +1,2 @@
-# eleventy-bs
-Eleventy set-up with BootStrap
+# 11ty-BootStrap
+## Eleventy set-up with BootStrap 5
